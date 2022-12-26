@@ -1,8 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": {
-    "type": "forge:any"
-  },
-  "features": "village_rampage_and_defence:sky_shard",
-  "step": "underground_ores"
-}
