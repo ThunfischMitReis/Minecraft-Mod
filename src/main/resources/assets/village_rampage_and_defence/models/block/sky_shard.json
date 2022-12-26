@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "village_rampage_and_defence:blocks/skyshard_block_top",
+    "particle": "village_rampage_and_defence:blocks/skyshard_block_top"
+  },
+  "render_type": "translucent"
+}

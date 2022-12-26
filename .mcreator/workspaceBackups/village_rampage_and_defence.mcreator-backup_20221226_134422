@@ -1,0 +1,57 @@
+{
+  "mod_elements": [
+    {
+      "name": "SkyShard",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_shard",
+      "path": "~/Sky Shard Stuff"
+    },
+    {
+      "name": "SkyStuff",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stuff",
+      "path": "~/Sky Shard Stuff"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabsky_stuff": "Sky Stuff",
+      "block.village_rampage_and_defence.sky_shard": "Sky Shard"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Sky Shard Stuff",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "village_rampage_and_defence",
+    "modName": "Village Rampage and Defence",
+    "version": "1.0.0",
+    "author": "ryanp, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.villagerampageanddefence",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

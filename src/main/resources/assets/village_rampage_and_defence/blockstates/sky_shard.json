@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "village_rampage_and_defence:block/sky_shard"
+    },
+    "facing=east": {
+      "model": "village_rampage_and_defence:block/sky_shard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "village_rampage_and_defence:block/sky_shard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "village_rampage_and_defence:block/sky_shard",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "village_rampage_and_defence:block/sky_shard",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "village_rampage_and_defence:block/sky_shard",
+      "x": 90
+    }
+  }
+}
